@@ -1,0 +1,14 @@
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Dice Roller\Dice Roller\bin\Debug\net6.0\Dice Roller.exe
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Dice Roller\Dice Roller\bin\Debug\net6.0\Dice Roller.deps.json
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Dice Roller\Dice Roller\bin\Debug\net6.0\Dice Roller.runtimeconfig.json
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Dice Roller\Dice Roller\bin\Debug\net6.0\Dice Roller.dll
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Dice Roller\Dice Roller\bin\Debug\net6.0\Dice Roller.pdb
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Dice Roller\Dice Roller\obj\Debug\net6.0\Dice Roller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Dice Roller\Dice Roller\obj\Debug\net6.0\Dice Roller.AssemblyInfoInputs.cache
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Dice Roller\Dice Roller\obj\Debug\net6.0\Dice Roller.AssemblyInfo.cs
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Dice Roller\Dice Roller\obj\Debug\net6.0\Dice Roller.csproj.CoreCompileInputs.cache
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Dice Roller\Dice Roller\obj\Debug\net6.0\Dice Roller.dll
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Dice Roller\Dice Roller\obj\Debug\net6.0\refint\Dice Roller.dll
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Dice Roller\Dice Roller\obj\Debug\net6.0\Dice Roller.pdb
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Dice Roller\Dice Roller\obj\Debug\net6.0\Dice Roller.genruntimeconfig.cache
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Dice Roller\Dice Roller\obj\Debug\net6.0\ref\Dice Roller.dll
